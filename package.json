@@ -1,0 +1,20 @@
+{
+  "name": "templates",
+  "version": "1.0.0",
+  "description": "project containing simple execution of various nodejs concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "nunjucks": "^3.2.3"
+  }
+}
